@@ -1,0 +1,9 @@
+pytesseract==0.3.8 
+pillow 
+streamlit
+sqlalchemy
+psycopg2-binary
+pandas
+# tesseract-ocr==4.1.1
+setuptools
+

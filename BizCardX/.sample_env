@@ -1,0 +1,5 @@
+# DataBase
+HOST=localhost
+DATABASE_NAME=devdb
+DATABASE_USER=postgres
+DATABASE_PASS=ags009
