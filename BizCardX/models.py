@@ -3,8 +3,8 @@ from sqlalchemy import create_engine, Column, String, Integer, Text, Date, Inter
 from sqlalchemy.ext.declarative import declarative_base
 import pandas as pd
 from sqlalchemy.orm import Session
-from db import Base
-from db import get_db
+from BizCardX.db import Base
+from BizCardX.db import get_db
 
 # Define the database connection
 # secrets_path = os.path.join(os.path.dirname(__file__), ".streamlit/secrets.toml")

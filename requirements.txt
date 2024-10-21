@@ -6,4 +6,9 @@ psycopg2-binary
 pandas
 # tesseract-ocr==4.1.1
 setuptools
-
+google-api-python-client
+pymongo
+pymysql
+psycopg2-binary
+toml
+isodate
