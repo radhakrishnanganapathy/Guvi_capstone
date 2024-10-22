@@ -22,7 +22,7 @@ download -> tesseract-ocr-w64-setup-5.3.3.20231005.exe (64 bit) -> https://digi.
 Install spaCy and download the language model --> pip install spacy 
 python -m spacy download en_core_web_sm -->
 
-<!------------------------------------------------------------------------------------------------------------------------>
+# ------------------------------------------------------------------------------------------------------------------------
 
 # YOUTUBE Harversting
 YOUTUBE - DS_YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit task has been assigned in the zen portal
